@@ -41,11 +41,12 @@ The output of Instumentation amplifier is given by
 
 
   **TABULATION:**
- <img width="1200" height="1599" alt="WhatsApp Image 2026-09-19 at 6 21 25 AM (1)" src="https://github.com/user-attachments/assets/3a9fc1f4-e251-44bf-aede-2afecee83eed" />
+ <img width="1283" height="944" alt="image" src="https://github.com/user-attachments/assets/9f72370b-b994-43f9-b128-d5a754af9612" />
 
 
 **MODEL CALCULATION:**
-<img width="1200" height="1599" alt="WhatsApp Image 2026-09-19 at 6 21 26 AM (1)" src="https://github.com/user-attachments/assets/786c9f94-6522-4906-b12e-2124129a6bf4" />
+<img width="974" height="568" alt="image" src="https://github.com/user-attachments/assets/c727a7b9-9660-43e5-969e-59da768f3bbe" />
+
 
 
 
